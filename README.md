@@ -5,7 +5,6 @@
  <a>개발자라는 꿈에 다시 한번 도전하기 위해 공부 중 입니다.</a>
   </div>
  <br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
  <div>
   <h2>💪Skills</h2>
