@@ -5,7 +5,9 @@
  <a>개발자라는 꿈에 다시 한번 도전하기 위해 공부 중 입니다.</a>
   </div>
  <br>
- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0203t&show_icons=true&theme=radical)
+ [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+h0203t=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
  <div>
   <h2>💪Skills</h2>
   <a href="https://mood130.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
