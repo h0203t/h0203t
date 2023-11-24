@@ -5,7 +5,7 @@
  <a>개발자라는 꿈에 다시 한번 도전하기 위해 공부 중 입니다.</a>
   </div>
  <br>
- ![h0203t](https://github-readme-stats.vercel.app/api/top-langs/?username=h0203t&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0203t&hide_progress=true)
  <div>
   <h2>💪Skills</h2>
   <a href="https://mood130.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
