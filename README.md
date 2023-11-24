@@ -6,7 +6,7 @@
   </div>
  <br>
  [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-h0203t=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/bi-sz/github-readme-stats)
  <div>
   <h2>💪Skills</h2>
