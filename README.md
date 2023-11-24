@@ -9,10 +9,9 @@
  <div>
   <h2>💪Skills</h2>
  </div>
-
+ 
  <div>
-  <h2>💪</h2>
-   <a href="https://mood130.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://mood130.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
  </div>
  
 </div>
