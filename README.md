@@ -1,6 +1,7 @@
 <div align="left">
  <a href="https://mood130.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
- <a>안녕하세요<br> 현재 솔루션 엔지니어로 일을 하고있는 권혁태 입니다.</a>
+ <a>안녕하세요</a><br>
+ <a>현재 솔루션 엔지니어로 일을 하고있는 권혁태 입니다.</a>
 </div>
 <!--
 **h0203t/h0203t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
